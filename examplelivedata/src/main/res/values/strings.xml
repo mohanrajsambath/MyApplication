@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ExampleLiveData</string>
+
+
+    <string name="loading">Loading…</string>
+
+    <string name="no_data_found">No data found</string>
+    <string name="rv_with_footer_pull_load_more">
+        <![CDATA[<string name=\"rv_with_footer_pull_load_more\">Pull to load more&#8230;</string>]]></string>
+    <string name="str_livedata">Welcome to Live data sample</string>
+
+</resources>
